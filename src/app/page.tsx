@@ -1,3 +1,3 @@
 export default function Home() {
-  return <>HELLO~ NEXTJS</>;
+  return <>HELLO~~ NEXTJS</>;
 }
